@@ -1,0 +1,5 @@
+Editing to observe "git diff" and then "git diff --staged"
+It seems "git diff" is used to observe differences between local repository and the file stored staged area.
+"git diff --staged" is used to observe differences between staged area and ___
+
+-- For testing individual file "git diff"
